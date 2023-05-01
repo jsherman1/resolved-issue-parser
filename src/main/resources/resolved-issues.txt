@@ -1,0 +1,44 @@
+
+https://issues.jboss.org/browse/ENTMQST-4791 - [amq-st-2.2] CVE-2022-36944 Scala 2.13.x before 2.13.9 has a Java deserialization risk via a gadget chain
+https://issues.jboss.org/browse/ENTMQST-4790 - [amq-st-2.2] CVE-2022-38752 snakeyaml: Uncaught exception in java.base/java.util.ArrayList.hashCode
+
+Component:
+
+https://issues.jboss.org/browse/ENTMQST-4791 - [amq-st-2.2] CVE-2022-36944 Scala 2.13.x before 2.13.9 has a Java deserialization risk via a gadget chain
+https://issues.jboss.org/browse/ENTMQST-4790 - [amq-st-2.2] CVE-2022-38752 snakeyaml: Uncaught exception in java.base/java.util.ArrayList.hashCode
+
+Component:  Strimzi
+
+https://issues.jboss.org/browse/ENTMQST-4791 - [amq-st-2.2] CVE-2022-36944 Scala 2.13.x before 2.13.9 has a Java deserialization risk via a gadget chain
+https://issues.jboss.org/browse/ENTMQST-4790 - [amq-st-2.2] CVE-2022-38752 snakeyaml: Uncaught exception in java.base/java.util.ArrayList.hashCode
+https://issues.jboss.org/browse/ENTMQST-4789 - [amq-st-2.2] CVE-2022-41854 dev-java/snakeyaml: DoS via stack overflow
+https://issues.jboss.org/browse/ENTMQST-4794 - [amq-st-2.2] CVE-2023-25194: Apache Kafka: Possible RCE/Denial of service attack via SASL JAAS JndiLoginModule configuration using Kafka Connect
+https://issues.jboss.org/browse/ENTMQST-4792 - [amq-st-2.2] CVE-2022-25647 com.google.code.gson-gson: Deserialization of Untrusted Data in com.google.code.gson-gson
+https://issues.jboss.org/browse/ENTMQST-4793 - [amq-st-2.2] CVE-2022-2047 jetty-http: improver hostname input handling
+https://issues.jboss.org/browse/ENTMQST-4791 - [amq-st-2.2] CVE-2022-36944 Scala 2.13.x before 2.13.9 has a Java deserialization risk via a gadget chain
+https://issues.jboss.org/browse/ENTMQST-4790 - [amq-st-2.2] CVE-2022-38752 snakeyaml: Uncaught exception in java.base/java.util.ArrayList.hashCode
+https://issues.jboss.org/browse/ENTMQST-4789 - [amq-st-2.2] CVE-2022-41854 dev-java/snakeyaml: DoS via stack overflow
+https://issues.jboss.org/browse/ENTMQST-4794 - [amq-st-2.2] CVE-2023-25194: Apache Kafka: Possible RCE/Denial of service attack via SASL JAAS JndiLoginModule configuration using Kafka Connect
+https://issues.jboss.org/browse/ENTMQST-4792 - [amq-st-2.2] CVE-2022-25647 com.google.code.gson-gson: Deserialization of Untrusted Data in com.google.code.gson-gson
+https://issues.jboss.org/browse/ENTMQST-4793 - [amq-st-2.2] CVE-2022-2047 jetty-http: improver hostname input handling
+
+Component: Streams
+
+https://issues.jboss.org/browse/ENTMQST-4728 - [KAFKA] MM2 connector task stopped and didn’t result in failed state
+https://issues.jboss.org/browse/ENTMQST-4766 - [amq-st-2.2] CVE-2023-25194 -  POSSIBLE RCE/DENIAL OF SERVICE ATTACK VIA SASL JAAS JNDI LOGIN MODULE CONFIGURATION USING KAFKA CONNECT
+https://issues.jboss.org/browse/ENTMQST-4691 - [amq-st-2.2] CVE-2023-0833 okhttp: Red Hat A-MQ Streams: component version with information disclosure flaw
+https://issues.jboss.org/browse/ENTMQST-4282 - [PROD] Missing sources for Kubernetes client 5.12.0 related artifacts
+https://issues.jboss.org/browse/ENTMQST-4785 - [amq-st-2.2] CVE-2022-42003 jackson-databind: deep wrapper array nesting wrt UNWRAP_SINGLE_VALUE_ARRAYS
+https://issues.jboss.org/browse/ENTMQST-4787 - [amq-st-2.2] CVE-2022-42004 jackson-databind: use of deeply nested arrays
+https://issues.jboss.org/browse/ENTMQST-4785 - [amq-st-2.2] CVE-2022-42003 jackson-databind: deep wrapper array nesting wrt UNWRAP_SINGLE_VALUE_ARRAYS
+https://issues.jboss.org/browse/ENTMQST-4787 - [amq-st-2.2] CVE-2022-42004 jackson-databind: use of deeply nested arrays
+
+
+Component: Broker
+
+https://issues.jboss.org/browse/ENTMQST-4728 - [KAFKA] MM2 connector task stopped and didn’t result in failed state
+https://issues.jboss.org/browse/ENTMQST-4766 - [amq-st-2.2] CVE-2023-25194 -  POSSIBLE RCE/DENIAL OF SERVICE ATTACK VIA SASL JAAS JNDI LOGIN MODULE CONFIGURATION USING KAFKA CONNECT
+https://issues.jboss.org/browse/ENTMQST-4691 - [amq-st-2.2] CVE-2023-0833 okhttp: Red Hat A-MQ Streams: component version with information disclosure flaw
+https://issues.jboss.org/browse/ENTMQST-4282 - [PROD] Missing sources for Kubernetes client 5.12.0 related artifacts
+https://issues.jboss.org/browse/ENTMQST-4785 - [amq-st-2.2] CVE-2022-42003 jackson-databind: deep wrapper array nesting wrt UNWRAP_SINGLE_VALUE_ARRAYS
+https://issues.jboss.org/browse/ENTMQST-4787 - [amq-st-2.2] CVE-2022-42004 jackson-databind: use of deeply nested arrays
