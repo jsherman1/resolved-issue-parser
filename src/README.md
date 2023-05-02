@@ -20,7 +20,7 @@ addStyle: Option to include/exclude markup style (default: false)
 The parser can handle text or XML data.  
 
 Text format:
-See the resolved-issues-example.xml provided in the resources directory for the expected data format. This file needs to be curator from a data export. The Component headers are optional and can be used to identify what component the fix targets.
+See the resolved-issues-example.xml provided in the resources directory for the expected data format. This file needs to be curated from a data export. The Component headers are optional and can be used to identify what component the fix targets.
 
 XML format: XML can be obtained from exporting data from Jira using the Export XML option.  The data can be further filtered by setting the following parameters on the URL: field=link&field=summary.
 See the resolved-issues-example.xml file provided in the resources directory.
